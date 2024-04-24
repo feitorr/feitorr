@@ -1,6 +1,4 @@
-# 💫 About Me:
-I'm José Feitor, I'm 19 years old and since I was young I'm passionate about technology and programming.<br>I hope one day to make a living from this passion and for that I'm going to work hard.<br>I am currently a member of Deloitte Brightstart.<br>
-
+<h2 align="center">▼△▼△ 𝙹𝚘𝚜é 𝙵𝚎𝚒𝚝𝚘𝚛'𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ▼△▼△</h2>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zefeitorr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/José Feitor) 

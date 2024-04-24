@@ -1,8 +1,7 @@
 <h2 align="center">▼△▼△ 𝙹𝚘𝚜é 𝙵𝚎𝚒𝚝𝚘𝚛'𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ▼△▼△</h2>
 
-[![](https://visitcount.itsvg.in/api?id=feitorr&icon=5&color=12)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=feitorr&icon=5&color=12)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zefeitorr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/José Feitor) 
 
 <p align="left">Hey there! 👋 I'm a web developer and Computer Engineering student at Deloitte BrightStart. <br>🚀Passionate about coding and creating awesome websites. <br>🌐 Join me on this exciting journey as I explore the world of technology! 🖥️</p>

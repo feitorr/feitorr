@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=feitorr&icon=5&color=12)](https://visitcount.itsvg.in)
 ## 🌐 About me :
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zefeitorr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/José Feitor) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zefeitorr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/josemiguelfeitor) 
 <p align="left">Hey there! 👋 I'm a web developer and Computer Engineering student at Deloitte BrightStart. <br>🚀Passionate about coding and creating awesome websites. <br>🌐 Join me on this exciting journey as I explore the world of technology! 🖥️</p>
 
 # 💻 Tech Stack:

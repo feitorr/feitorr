@@ -15,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=feitorr&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feitorr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 h3 align="left">My Languages!</h3>
 
 ###
@@ -45,6 +45,7 @@ h3 align="left">My Languages!</h3>
 </div>
 
 ###
+---
 
 <img src="https://raw.githubusercontent.com/feitorr/feitorr/output/snake.svg" alt="Snake animation" />
 

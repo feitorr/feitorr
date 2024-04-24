@@ -1,5 +1,7 @@
 <h2 align="center">▼△▼△ 𝙹𝚘𝚜é 𝙵𝚎𝚒𝚝𝚘𝚛'𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ▼△▼△</h2>
 
+[![](https://visitcount.itsvg.in/api?id=feitorr&icon=5&color=12)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zefeitorr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/José Feitor) 
 
@@ -14,6 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feitorr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=feitorr&icon=5&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,14 +1,45 @@
 <h2 align="center">▼△▼△ 𝙹𝚘𝚜é 𝙵𝚎𝚒𝚝𝚘𝚛'𝚜 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ▼△▼△</h2>
 
+###
 
-[![](https://visitcount.itsvg.in/api?id=feitorr&icon=5&color=12)](https://visitcount.itsvg.in)
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zefeitorr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/José Feitor) 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=feitorr.feitorr&left_text=My%20Profile%20Views"  />
+</div>
+
+###
+
+<h3 align="left">Talk with me!</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<h3 align="left">About me!</h3>
+
+###
 
 <p align="left">Hey there! 👋 I'm a web developer and Computer Engineering student at Deloitte BrightStart. <br>🚀Passionate about coding and creating awesome websites. <br>🌐 Join me on this exciting journey as I explore the world of technology! 🖥️</p>
 
+###
 
-# 💻 Tech Stack:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=feitorr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feitorr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">My Languages!</h3>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -33,21 +64,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=feitorr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=feitorr&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=feitorr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<h3 align="left">My Languages!</h3>
-
-###
-
 
 ###
 
 <img src="https://raw.githubusercontent.com/feitorr/feitorr/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

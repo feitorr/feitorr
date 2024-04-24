@@ -6,7 +6,6 @@
 <p align="left">Hey there! 👋 I'm a web developer and Computer Engineering student at Deloitte BrightStart. <br>🚀Passionate about coding and creating awesome websites. <br>🌐 Join me on this exciting journey as I explore the world of technology! 🖥️</p>
 
 # 💻 Tech Stack:
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -28,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=feitorr&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=feitorr&theme=vue-dark&hide_border=false)<br/>
